@@ -9703,6 +9703,11 @@
   "resolved" "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.2.tgz"
   "version" "1.2.2"
 
+"r@^0.0.5":
+  "integrity" "sha1-/jNVDQxuJ+tBRQ9kBLHjG3HNZTE="
+  "resolved" "https://registry.npmjs.org/r/-/r-0.0.5.tgz"
+  "version" "0.0.5"
+
 "raf@^3.4.1":
   "integrity" "sha512-Sq4CW4QhwOHE8ucn6J34MqtZCeWFP2aQSmrlroYgqAV1PjStIhJXxYuTgUIfkEk7zTLjmIjLmU5q+fbD1NnOJA=="
   "resolved" "https://registry.npmjs.org/raf/-/raf-3.4.1.tgz"
